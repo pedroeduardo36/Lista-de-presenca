@@ -41,16 +41,7 @@ export default function Home() {
       },
     ]);
   }
-// - Big O Dérik (sucos)
-// - Lucas 
-// - Madu (sei lá mas alguma coisa eu levo)
-// - Cleitin do rasta
-// - Pedrão 
-// - Nattt (pipoquinhaaa)
-// - Xu (ainda tenho que pensar no chelengolengo)
-// - Guigo (o que eu vou levar é uma surpresa pra mim tbm) 
-// -
-
+  
   return (
     <View style={styles.container}>
       <Text style={styles.eventName}>Nome do evento:</Text>
